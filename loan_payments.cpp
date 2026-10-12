@@ -6,7 +6,7 @@ int main()
 {
     double loan_amount;
     double annual_interest_rate;
-    double number_of_monthly_payments;
+    int number_of_monthly_payments;
     double monthly_interest_rate;
     double monthly_payments;
     double amount_paid_back;
